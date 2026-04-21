@@ -1,3 +1,5 @@
+#ALL DONE ON VS CODE 
+
 """
 ICT Trading Signal Alert System
 Real-time alerts for institutional trading patterns with multiple notification channels
