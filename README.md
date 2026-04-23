@@ -577,6 +577,10 @@ The ICT Trading Signal Alert System provides:
 
 
 
+alert system can be modified and used as a siren 
+
+
+
 
 CTAlertManager class
 10+ signal types
