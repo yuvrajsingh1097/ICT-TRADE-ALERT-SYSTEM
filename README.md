@@ -582,6 +582,32 @@ alert system can be modified and used as a siren
 
 
 
+Technology Stack
+Backend:
+
+Python 3.8+
+Flask (API)
+Pandas (Data)
+SQLAlchemy (ORM)
+Pytest (Testing)
+
+Data:
+
+JSON (Config & signals)
+CSV (Historical data)
+PostgreSQL (Optional)
+Redis (Optional caching)
+
+Deployment:
+
+Docker ready
+Cloud compatible
+Scalable architecture
+
+
+
+
+
 CTAlertManager class
 10+ signal types
 6 alert channel handlers
