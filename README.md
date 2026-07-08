@@ -35,7 +35,7 @@ The **ICT Trading Signal Alert System** is a professional-grade alert management
 ### 4. **LIQUIDITY_HUNT / LIQUIDATION_HUNT**
 - Stops being cleared before major moves
 - Bullish: New low + close high
-- Bearish: New high + close low
+- Bearish: New high + close high and low
 
 ### 5. **SUPPORT_BOUNCE / RESISTANCE_BOUNCE**
 - Price bouncing from key levels
