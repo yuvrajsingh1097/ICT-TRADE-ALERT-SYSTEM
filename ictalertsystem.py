@@ -838,3 +838,5 @@ def main():
 
 if __name__ == "__main__":
     alert_manager = main()
+
+#this system require more work as it is not completely devloped and works on principle of ict concepts ifvg+liquididty sweep 
