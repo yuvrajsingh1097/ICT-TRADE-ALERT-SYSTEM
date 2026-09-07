@@ -205,7 +205,7 @@ config = AlertConfig(
     json_export_path="./signals.json"
 )
 ```
-
+jhn
 ---
 
 ## 📊 Severity Levels
