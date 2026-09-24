@@ -13,7 +13,7 @@ The **ICT Trading Signal Alert System** is a professional-grade alert management
 ✅ **Risk/Reward Analysis** - Automatic ratio calculation  
 ✅ **Confidence Scoring** - 0-100% confidence levels  
 
----
+---jn
 bb
 ## 🎯 Signal Types Supported
 
