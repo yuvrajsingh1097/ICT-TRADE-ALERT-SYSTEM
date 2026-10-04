@@ -1,6 +1,6 @@
 # ICT Trading Signal Alert System - Complete Guide
 
-## 📋 Overview
+## 📋 Overviewn
 
 The **ICT Trading Signal Alert System** is a professional-grade alert management platform for institutional trading pattern detection. It monitors multiple currency pairs, detects ICT signals, and sends real-time alerts through multiple channels.
 
